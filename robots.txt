@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kahmed3085.github.io/Zong-5g--Corporate-Business-Products/sitemap.xml
